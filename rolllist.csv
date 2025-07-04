@@ -1,0 +1,141 @@
+SlNo,RegdNo,NameoftheStudent,Class,Section
+1,23B91A4773,Natta Joel John,CIC,B
+2,23B91A4774,Nodagala Indrani,CIC,B
+3,23B91A4775,Pabolu S V S S Shanmukha Rani,CIC,B
+4,23B91A4776,Padala Akhil Nandu Yadav,CIC,B
+5,23B91A4777,Paidikondala Muktha Chandrika,CIC,B
+6,23B91A4778,Palaka Pavan Kumar,CIC,B
+7,23B91A4779,Palina Maneesha,CIC,B
+8,23B91A4780,Palnati Deekshitha,CIC,B
+9,23B91A4781,Pattan Firdos Fatima,CIC,B
+10,23B91A4782,Pekeb Amrutha Sarveswari Subrahmanyam,CIC,B
+11,23B91A4783,Polimera Raga Sudha,CIC,B
+12,23B91A4784,Pothabattula Meghana Satyambika,CIC,B
+13,23B91A4785,Reana Bala Naga Yaswanth,CIC,B
+14,23B91A4786,Rapaka Harsha Vardhan,CIC,B
+15,23B91A4787,Ravi Sri Rupak Gunturu,CIC,B
+16,23B91A4788,Ravuri Achyuta Ramachandra Murthy,CIC,B
+17,23B91A4789,Sagi Satya Bhavya Sri,CIC,B
+18,23B91A4790,Samudrapu Venkat Hemanth,CIC,B
+19,23B91A4791,Sanaboina Pavani Sri,CIC,B
+20,23B91A4792,Sanivarapu Subbalakshmi,CIC,B
+21,23B91A4793,Savarapu Subba Lakshmi,CIC,B
+22,23B91A4794,Sawaparaju Lakshmi Prasanna,CIC,B
+23,23B91A4795,Shaik Aathif,CIC,B
+24,23B91A4796,Shaik Shaheena,CIC,B
+25,23B91A4797,Sreegiri Venkata Rishik,CIC,B
+26,23B91A4798,Surisetti Manoj Akash,CIC,B
+27,23B91A4799,Syed Nasren,CIC,B
+28,23B91A47A0,Tadepalli Keerti,CIC,B
+29,23B91A47A1,Talluri Veerendra Nadh,CIC,B
+30,23B91A47A2,Tammu Rama Sai,CIC,B
+31,23B91A47A3,Vadupu Gunasri,CIC,B
+32,23B91A47A4,Vaidhani Krupa Paul,CIC,B
+33,23B91A47A5,Valavala Ganesh Mandeep,CIC,B
+34,23B91A47A6,Varanasi Sai Vardhan,CIC,B
+35,23B91A47A7,Varikuti Sa Deepika,CIC,B
+36,23B91A47A8,Veeravalli Yagna Naga Babu,CIC,B
+37,23B91A47A9,Viggina Harsha Naga Prem Chand,CIC,B
+38,23B91A47B0,Villa Pranab,CIC,B
+39,23B91A47B1,Yalamuri Spandana,CIC,B
+40,24B95A4701,Adabala Neelima Naidu,CIC,B
+41,24B95A4702,Alajangi Subba Lakshmi,CIC,B
+42,24B95A4703,Alluri Bhargav Siva Sai Venkata Varma,CIC,B
+43,24B95A4704,Avula Nagasri,CIC,B
+44,24B95A4705,Dola Mohana Manikanta,CIC,B
+45,24B95A4706,Gadirau Rmpesh Ghana Syce,CIC,B
+46,24B95A4707,Gandham Veera Lakshmi Geethika,CIC,B
+47,24B95A4708,Geddam Santhosh,CIC,B
+48,24B95A4709,Guthuia Jnapthika,CIC,B
+49,24B95A4710,Jampana Manoj Varma,CIC,B
+50,24B95A4711,Jarugu Uday Bhogesh,CIC,B
+51,24B95A4712,Jyesta Jithendra Koteswar,CIC,B
+52,24B95A4713,Kadai Naga Ganesh,CIC,B
+53,24B95A4714,Kavuru Satish,CIC,B
+54,24B95A4715,Kolli Joshi Kumar,CIC,B
+55,24B95A4716,Koppadi Bhargav Ram,CIC,B
+56,24B95A4717,Krovvidl Mani Kumar,CIC,B
+57,24B95A4718,Kunisetti Praveen Kumar,CIC,B
+58,24B95A4719,Maddisetti Jyoshika Lakshmi,CIC,B
+59,24B95A4720,Madireddy Meghana Sathya Sri,CIC,B
+60,24B95A4721,Medidi Sai Pranav,CIC,B
+61,24B95A4722,Miriyala Divya,CIC,B
+62,24B95A4723,Mohammad Babul Rayan,CIC,B
+63,24B95A4724,%tupalli Sathvika,CIC,B
+64,24B95A4725,Pinnana Venkata Madhu Sudhan,CIC,B
+65,24B95A4726,Ponnala Krishna Vamsi,CIC,B
+66,24B95A4727,Ragu S D Baaji,CIC,B
+67,24B95A4728,Ramisetti Suresh Babu,CIC,B
+68,24B95A4729,Suggisetl Sai Krishna Mwthy,CIC,B
+69,24B95A4730,Thippa Satya Praveen,CIC,B
+70,24B95A4731,ummidi Anusha,CIC,B
+71,24B95A4732,Vutukuri Sri Sharan,CIC,B
+72,24B95A4733,Yadagadda Taj Vivak,CIC,B
+73,22B91A0571,Gadiraju Hemanth Varma,CSE,B
+74,22B91A0572,Gadiraju Prudvi Raju,CSE,B
+75,22B91A0573,Gangarapu Hrushi Kesava Reddy,CSE,B
+76,22B91A0574,Gangisetti Manikanta,CSE,B
+77,22B91A0575,Ganisetty Vignesh,CSE,B
+78,22B91A0576,Ganji Salman,CSE,B
+79,22B91A0577,Ganta Rudra Venkata Satya Sai Pavan,CSE,B
+80,22B91A0578,Ganta Uday Kiran,CSE,B
+81,22B91A0579,Geesala Preethika,CSE,B
+82,22B91A0580,Gogi Rithika,CSE,B
+83,22B91A0581,Gollamandala Karthik Venkata Sriram,CSE,B
+84,22B91A0582,Golukonda Naveen,CSE,B
+85,22B91A0583,Gorinkala Sharon Priyanka,CSE,B
+86,22B91A0584,Gorinta Harshini,CSE,B
+87,22B91A0585,Gorle Renuka,CSE,B
+88,22B91A0586,Gottapu Naga Vineela,CSE,B
+89,22B91A0587,Gowri Aune Raili Reena,CSE,B
+90,22B91A0588,Guddati Venkata Satish,CSE,B
+91,22B91A0589,Guggila Veera Venkata Sai,CSE,B
+92,22B91A0590,Gundabathula Lakshmi Aswitha,CSE,B
+93,22B91A0591,Gunturi Gauri Naga Aravind Varma,CSE,B
+94,22B91A0592,Gurajala Nithin Kumar,CSE,B
+95,22B91A0593,Ijji Mallikarjun,CSE,B
+96,22B91A0594,Ikkurthi Mahitha,CSE,B
+97,22B91A0595,Indukuri Eswari Keelhi,CSE,B
+98,22B91A0596,Indukuri Yaswanth Varma,CSE,B
+99,22B91A0597,Jalli Canesh Varma,CSE,B
+100,22B91A0598,Jarapla Likhitha,CSE,B
+101,22B91A0599,Jogi Doni Naga Siva,CSE,B
+102,22B91A05A1,Kali Jyothi Prabha,CSE,B
+103,22B91A05A3,Kamisetti Kavya Akanksha,CSE,B
+104,22B91A05A4,Kamkolam Jaswanth Varma,CSE,B
+105,22B91A05A5,Kanchu Mahendra,CSE,B
+106,22B91A05A6,Kankatala Bharavi,CSE,B
+107,22B91A05A7,Karlapudi Abishay,CSE,B
+108,22B91A05A8,Karri Bhairav Kumar,CSE,B
+109,22B91A05A9,Karri Sai Vamsi Reddy,CSE,B
+110,22B91A05B0,Katakam Sai Mani Bhagavan,CSE,B
+111,22B91A05B1,Katari Himani,CSE,B
+112,22B91A05B2,Katta Likhitha Venkateswari,CSE,B
+113,22B91A05B3,Kattunga Sivamani,CSE,B
+114,22B91A05B4,Kedharisetty Swaroop,CSE,B
+115,22B91A05B5,Keerthi Sri Velaga,CSE,B
+116,22B91A05B6,Kethavath Muni Naik,CSE,B
+117,22B91A05B7,Kodadala Ajay Chandra Reddy,CSE,B
+118,22B91A05B8,Kodeti Sri Santhoshi,CSE,B
+119,22B91A05B9,Koduri Sai Satya Saketh,CSE,B
+120,22B91A05C0,Kokkiligadda Dinesh Varma,CSE,B
+121,22B91A05C1,Kokkirlapati Jai Sai Sashank Varma,CSE,B
+122,22B91A05C2,Koli Vamsi,CSE,B
+123,22B91A05C3,Komala Bhuvaneswari,CSE,B
+124,22B91A05C4,Komaram Pujitha,CSE,B
+125,22B91A05C5,Kommireddi Mohana Naga Bhaskar,CSE,B
+126,22B91A05C6,Kommu Rajesh Babu,CSE,B
+127,22B91A05C7,Konakanchi Venkata Satyanarayana Sarma,CSE,B
+128,22B91A05C8,Konala Mounika,CSE,B
+129,22B91A05C9,Kondapalli Poojita,CSE,B
+130,22B91A05D0,Kondeti Hari Rama Nagesh,CSE,B
+131,22B91A05D1,Kondeti Ome Surya Manikanta,CSE,B
+132,22B91A05D2,Kondeti Pavithra,CSE,B
+133,22B91A05D3,Kopparthi Aditya,CSE,B
+134,22B91A05D4,Kopparthi Hitcsh,CSE,B
+135,22B91A05D5,Korada Nikhil Venkata Sai Ganesh,CSE,B
+136,22B91A05D6,Koriepara Sri Charan Sai Teja,CSE,B
+137,22B91A05D7,Kota Ishwarya,CSE,B
+138,22B91A05D8,Kothapalli Anumitra,CSE,B
+139,22B91A05D9,Kothapalli Vamsi Krishna Varma,CSE,B
+140,22B91A05E0,Kotipatruni Venkata Dwarakesh,CSE,B
